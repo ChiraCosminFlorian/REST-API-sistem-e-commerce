@@ -15,5 +15,5 @@ spring:
 
 app:
   jwt:
-    secret: MyVerySecretKeyThatIsAtLeast256BitsLong
+    secret: MyVerySecretKeyThatIsAtLeast256BitsLongAndEvenMoreSecure123456789
     expiration: 86400000
